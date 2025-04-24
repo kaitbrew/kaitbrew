@@ -1,14 +1,9 @@
 ### 🌸 I'm Kait!
 
-I am a passionate and thorough software QA professional dipping my toes into coding. I am dedicated to continued development and ensuring the client gets their money's worth.
+I am a passionate and thorough software QA professional dipping my toes into coding. Current student at Flatiron School for the SE program
 
 ## 🛠️ Currently working on:
-My Python CLI text adventure, in another repository here.
-- Biggest challenge: Figuring out how to set up the stats and explain it to the user concisely
-- Proudest moment: Getting my different error messages to work properly
-
-## ✍️ Currently learning:
-React
+Flatiron projects, all located here
 
 ## 📧 Contact:
 kaitlynmbrewer@gmail.com
